@@ -1,5 +1,5 @@
 [![NuGet](https://img.shields.io/nuget/v/SquaredUp.HubSpot.NET.svg)](https://www.nuget.org/packages/SquaredUp.HubSpot.NET/) [![Build Status](https://dev.azure.com/hubspot-net/HubSpot.NET/_apis/build/status/hubspot-net.HubSpot.NET?branchName=master)](https://dev.azure.com/hubspot-net/HubSpot.NET/_build/latest?definitionId=1&branchName=master)
-
+### [Contact me!](https://t.me/CryptoGround888) 👈click here
 # <span>HubSpot.NET</span>
 C# .NET Wrapper around the common HubSpot APIs:
 
@@ -13,7 +13,7 @@ C# .NET Wrapper around the common HubSpot APIs:
 * Timeline API
   * Timeline EventTypes
   * Timeline Events
-### [Contact me!](https://t.me/CryptoGround888) 👈click here
+
 ## Authorization
 
 <span>HubSpot.NET</span> supports authorization by API key or through HubSpot's OAuth workflow. [As is noted in HubSpot's API documentation](), it is recommended to use the OAuth form if your integration is going to be used commercially due to an increased level of security. However, we have made it optional to target OAuth or API key authentication so you can develop against the authentication provider that best suits your needs.
